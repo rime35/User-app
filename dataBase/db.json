@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id":"unique-1",
+      "name":"Emirhan ",
+        "surname":"albayrak",
+        "mail":"ea@gmail.com",
+        "phone":"5537622553"
+    },
+    {
+      "id":"unique-2",
+      "name":"Emirhan ",
+        "surname":"albayrak",
+        "mail":"ea@gmail.com",
+        "phone":"5537622553"
+    },
+    {
+      "id":"unique-3",
+      "name":"Emirhan ",
+        "surname":"albayrak",
+        "mail":"ea@gmail.com",
+        "phone":"5537622553"
+    }
+  ]
+}
